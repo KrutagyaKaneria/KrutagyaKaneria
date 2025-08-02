@@ -31,7 +31,7 @@ Stay tuned for exciting new tutorials and mini-projects. Follow me and never mis
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=krutagya-kaneria&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=krutagyakaneria&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
