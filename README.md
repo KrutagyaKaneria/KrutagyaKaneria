@@ -52,9 +52,9 @@ Stay tuned for exciting new tutorials and mini-projects. Follow me and never mis
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=krutagya-kaneria&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krutagya-kaneria&theme=dark&hide_border=false&layout=compact)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=krutagya-kaneria&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=krutagyakaneria&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=krutagyakaneria&theme=dark&hide_border=false&layout=compact)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=krutagyakaneria&theme=dark&hide_border=false)
 
 ---
 
