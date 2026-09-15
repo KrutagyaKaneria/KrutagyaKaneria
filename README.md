@@ -21,7 +21,7 @@
 Stay tuned for exciting new tutorials and mini-projects. Follow me and never miss an update!
 
 <!-- You can add your YouTube and social links here -->
-[![YouTube](https://img.shields.io/badge/YouTube-KrutagyaKaneria-red?logo=youtube&logoColor=white)](https://www.youtube.com/@technosnag) 
+[![YouTube](https://img.shields.io/badge/YouTube-KrutagyaKaneria-red?logo=youtube&logoColor=white)](https://www.youtube.com/@krutagyakaneria) 
 [![Instagram](https://img.shields.io/badge/Instagram-krutagya-blueviolet?logo=instagram&logoColor=white)](https://instagram.com/yourprofile) 
 [![Twitter](https://img.shields.io/badge/Twitter-krutagya-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-krutagya-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/krutagya-kaneria)
